@@ -1,4 +1,5 @@
-Bonjour, je suis un David développeur web full stack avec 2 ans d'expérience dans la programmation. Je suis passionné par la création d'applications web de haute qualité avec un accent particulier sur l'expérience utilisateur, la sécurité et les détails.
+Bonjour !
+Je suis David, développeur web full stack avec 2 ans d'expérience dans la programmation. Je suis passionné par la création d'applications web de haute qualité avec un accent particulier sur l'expérience utilisateur, la sécurité et les détails.
 
 Compétences :
 HTML, CSS, JavaScript, PHP et SQL
@@ -22,7 +23,8 @@ P.S. Merci à Chat gpt de m'avoir aider à écrire cette présentation :)"
 
 in English :
 
-Hello, I am David, a full stack web developer with 2 years of experience in programming. I am passionate about creating high-quality web applications with a particular focus on user experience, security, and details.
+Hi!
+I am David, a full stack web developer with 2 years of experience in programming. I am passionate about creating high-quality web applications with a particular focus on user experience, security, and details.
 
 Skills:
 HTML, CSS, JavaScript, PHP, and SQL
