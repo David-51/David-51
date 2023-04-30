@@ -1,4 +1,3 @@
-Titre : Développeur Web Full Stack
 Bonjour, je suis un David développeur web full stack avec 2 ans d'expérience dans la programmation. Je suis passionné par la création d'applications web de haute qualité avec un accent particulier sur l'expérience utilisateur, la sécurité et les détails.
 
 Compétences :
